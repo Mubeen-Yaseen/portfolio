@@ -1,0 +1,434 @@
+ /* Home Section */
+ @media (max-width:900px) {
+     .img1 {
+         border-radius: 3rem;
+     }
+
+     .border {
+         border-radius: 3rem;
+         margin-right: 3rem;
+
+     }
+
+     .All {
+         width: 15rem;
+     }
+ }
+
+ @media screen and (max-width: 1000px) and (min-width: 800px) {
+     .All {
+         width: 15rem;
+     }
+
+     .Box1 {
+         width: 13.8rem;
+         height: 12.5rem;
+     }
+
+     .pro-container {
+         margin: 0rem 3rem 0rem 3rem;
+     }
+ }
+
+ @media (max-width:810px) {
+     .about-resp {
+         width: 85vw;
+
+     }
+
+     .border {
+         border-radius: 5rem;
+         margin-right: 3rem;
+
+     }
+
+ }
+
+ @media (max-width:750px) {
+     .Potfolio {
+         margin-left: .3rem;
+     }
+
+     .bars {
+         display: block;
+     }
+
+     .nav-items {
+         display: none;
+     }
+
+     .resp {
+         text-align: center;
+         flex-direction: column-reverse;
+         width: auto;
+
+     }
+
+     .img1 {
+         border-radius: 9rem;
+         margin-top: 15rem;
+     }
+
+     .social-media-app {
+         display: flex;
+         justify-content: center;
+
+     }
+
+
+     .about-resp {
+         flex-direction: column;
+         text-align: center;
+     }
+
+     .container {
+         text-align: center;
+         margin-top: 5rem;
+     }
+
+     .services-resp {
+         flex-direction: column;
+         text-align: center;
+         margin-top: 33rem;
+         display: grid;
+     }
+
+     .All {
+         margin-bottom: 2rem;
+     }
+
+     .top {
+         padding-top: 13rem;
+     }
+
+     #Potfolio {
+         margin-top: 32rem;
+     }
+
+     .pro-container {
+         margin: 0rem 0rem 0rem 0rem;
+     }
+
+     .flex1 {
+         flex-direction: column;
+         text-align: center;
+         display: grid;
+     }
+
+     .flex2 {
+         flex-direction: column;
+         text-align: center;
+         display: grid;
+     }
+
+     .Project {
+         position: relative;
+         left: 0rem;
+
+     }
+
+     .Box1 {
+         margin-bottom: 2rem;
+     }
+
+     #Contacts {
+         margin-top: 50rem;
+
+     }
+
+     .name-mail {
+         display: flex;
+         justify-content: center;
+     }
+
+     .resp-inp {
+         display: flex;
+         flex-direction: column;
+         width: 35rem;
+     }
+
+     #area {
+         width: 35rem;
+     }
+
+     .mrg {
+         margin-bottom: 1rem;
+
+     }
+
+     .border {
+         border-radius: 17rem;
+         margin-top: 25rem;
+
+     }
+
+     .margin {
+         margin-left: 13.5rem;
+     }
+
+ }
+
+ @media (max-width:600px) {
+     .resp-inp {
+         width: 30rem;
+     }
+
+     #area {
+         width: 30rem;
+     }
+
+ }
+
+ @media (max-width:525px) {
+     .resp-inp {
+         width: 25rem;
+     }
+
+     #area {
+         width: 25rem;
+     }
+
+     .margin {
+         margin-left: 5.5rem;
+     }
+
+
+ }
+
+ @media (max-width:430px) {
+     .resp-inp {
+         width: 20rem;
+     }
+
+     #area {
+         width: 20rem;
+     }
+
+     .margin {
+         margin-left: 3rem;
+     }
+
+     .services-resp {
+         margin-top: 45rem;
+     }
+
+     .border {
+         margin-top: 30rem;
+     }
+ }
+
+ @media (max-width:378px) {
+     .main {
+         margin-top: 5rem;
+     }
+
+     .about-resp {
+         margin-top: 45rem;
+     }
+
+     .top {
+         padding-top: 41rem;
+
+     }
+
+     #About {
+         margin-top: -15rem;
+     }
+
+     .border {
+         margin-top: 30rem;
+     }
+
+     .services-resp {
+         margin-top: 60rem;
+     }
+
+     #Potfolio {
+         margin-top: 45rem;
+     }
+
+ }
+
+ @media (max-width:990px) {
+     .main {
+         width: 25rem;
+     }
+
+ }
+
+ /* @media (min-height: 667px), (max-height: 854px) {
+#Potfolio {
+        margin-top: 40rem;
+      }
+
+} 
+@media (max-height:667px) {
+     #About {
+    margin-top: 0rem;
+  }
+      .services-resp {
+        margin-top: 60rem;
+      }
+      .top {
+        padding-top: 35rem;
+      }
+      #Contacts {
+        margin-top: 57rem;
+      }
+      #Potfolio {
+        margin-top: 50rem;
+      }
+
+}  */
+ /* Responsive Dropdown */
+ @media (max-width:750px) {
+     .dropdown {
+         left: 33rem;
+         
+     }
+     .bars {
+        display: flex;
+    }
+
+    
+ }
+
+ @media (max-width:740px) {
+     .dropdown {
+         left: 33rem;
+         
+     }
+ }
+
+ @media (max-width:720px) {
+     .dropdown {
+         left: 31rem;
+         
+     }
+ }
+
+ @media (max-width:700px) {
+     .dropdown {
+         left: 30rem;
+        
+     }
+ }
+
+ @media (max-width:680px) {
+     .dropdown {
+         left: 29rem;
+         
+     }
+ }
+
+ @media (max-width:660px) {
+     .dropdown {
+         left: 28rem;
+        
+     }
+ }
+
+ @media (max-width:640px) {
+     .dropdown {
+         left: 26rem;
+         
+     }
+ }
+
+ @media (max-width:620px) {
+     .dropdown {
+         left: 25rem;
+         
+
+     }
+ }
+
+ @media (max-width:600px) {
+     .dropdown {
+         left: 23rem;
+         
+     }
+ }
+
+ @media (max-width:580px) {
+     .dropdown {
+         left: 22.5rem;
+         
+     }
+ }
+
+ @media (max-width:560px) {
+     .dropdown {
+         left: 21rem;
+         
+     }
+ }
+
+ @media (max-width:540px) {
+     .dropdown {
+         left: 20rem;
+         
+     }
+ }
+
+ @media (max-width:520px) {
+     .dropdown {
+         left: 19rem;
+         
+     }
+ }
+
+ @media (max-width:500px) {
+     .dropdown {
+         left: 18rem;
+         
+     }
+ }
+
+ @media (max-width:480px) {
+     .dropdown {
+         left: 17rem;
+        
+     }
+ }
+
+ @media (max-width:460px) {
+     .dropdown {
+         left: 15rem;
+         
+     }
+ }
+
+ @media (max-width:440px) {
+     .dropdown {
+         left: 14rem;
+         
+     }
+ }
+
+ @media (max-width:420px) {
+     .dropdown {
+         left: 13rem;
+        
+     }
+ }
+
+ @media (max-width:400px) {
+     .dropdown {
+         left: 12rem;
+        
+     }
+ }
+
+ @media (max-width:380px) {
+     .dropdown {
+         left: 11rem;
+        
+     }
+ }
+
+ @media (max-width:360px) {
+     .dropdown {
+         left: 10rem;
+     }
+ }
