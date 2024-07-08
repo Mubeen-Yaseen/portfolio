@@ -169,6 +169,7 @@ body {
     border: 0;
     background: #3e9add;
     color: azure;
+    cursor: pointer;
 }
 
 .Download:hover {
