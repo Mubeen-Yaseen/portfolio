@@ -38,7 +38,6 @@
 
      .border {
          border-radius: 5rem;
-         margin-right: 3rem;
 
      }
 
@@ -284,61 +283,62 @@
  @media (max-width:750px) {
      .dropdown {
          left: 33rem;
-         
-     }
-     .bars {
-        display: flex;
-    }
 
-    
+     }
+
+     .bars {
+         display: flex;
+     }
+
+
  }
 
  @media (max-width:740px) {
      .dropdown {
          left: 33rem;
-         
+
      }
  }
 
  @media (max-width:720px) {
      .dropdown {
          left: 31rem;
-         
+
      }
  }
 
  @media (max-width:700px) {
      .dropdown {
          left: 30rem;
-        
+
      }
  }
 
  @media (max-width:680px) {
      .dropdown {
          left: 29rem;
-         
+
      }
  }
 
  @media (max-width:660px) {
      .dropdown {
          left: 28rem;
-        
+
      }
  }
 
  @media (max-width:640px) {
      .dropdown {
          left: 26rem;
-         
+
      }
  }
 
  @media (max-width:620px) {
      .dropdown {
          left: 25rem;
-         
+
 
      }
  }
@@ -346,84 +346,84 @@
  @media (max-width:600px) {
      .dropdown {
          left: 23rem;
-         
+
      }
  }
 
  @media (max-width:580px) {
      .dropdown {
          left: 22.5rem;
-         
+
      }
  }
 
  @media (max-width:560px) {
      .dropdown {
          left: 21rem;
-         
+
      }
  }
 
  @media (max-width:540px) {
      .dropdown {
          left: 20rem;
-         
+
      }
  }
 
  @media (max-width:520px) {
      .dropdown {
          left: 19rem;
-         
+
      }
  }
 
  @media (max-width:500px) {
      .dropdown {
          left: 18rem;
-         
+
      }
  }
 
  @media (max-width:480px) {
      .dropdown {
          left: 17rem;
-        
+
      }
  }
 
  @media (max-width:460px) {
      .dropdown {
          left: 15rem;
-         
+
      }
  }
 
  @media (max-width:440px) {
      .dropdown {
          left: 14rem;
-         
+
      }
  }
 
  @media (max-width:420px) {
      .dropdown {
          left: 13rem;
-        
+
      }
  }
 
  @media (max-width:400px) {
      .dropdown {
          left: 12rem;
-        
+
      }
  }
 
  @media (max-width:380px) {
      .dropdown {
          left: 11rem;
-        
+
      }
  }
 
