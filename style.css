@@ -42,7 +42,7 @@ body {
 }
 
 .bar-icon {
-     color: white;
+    color: white;
     font-size: 1.7rem;
 }
 
@@ -51,7 +51,7 @@ body {
     display: flex;
     position: relative;
     top: 2.5rem;
-    background: rgba(149,172,255,0.1);
+    background: rgba(149, 172, 255, 0.1);
     padding-top: 1rem;
     padding-bottom: 1rem;
     width: 10rem;
@@ -65,9 +65,10 @@ body {
 .dropdown a {
     color: white;
     position: relative;
-  left: 6%;
+    left: 6%;
 
 }
+
 .dropdown a:hover {
     font-weight: 400;
     color: #59B2F4;
@@ -147,6 +148,7 @@ body {
 
 .para {
     padding-bottom: 1rem;
+    padding: 10px;
 }
 
 .social-media-app {
